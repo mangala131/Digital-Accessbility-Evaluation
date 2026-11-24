@@ -1,0 +1,8 @@
+{
+  "name": "Veritas A11y",
+  "description": "Automated digital accessibility evaluation workbench for auditing web pages against WCAG 2.2 compliance criteria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
